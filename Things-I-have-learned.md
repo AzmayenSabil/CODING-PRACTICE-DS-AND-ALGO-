@@ -7,3 +7,4 @@ Day-2:	# partial sum
 	# longest consecutive number subarray
 	  
 	
+DAY-3 : # Binary Search
