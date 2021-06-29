@@ -10,3 +10,6 @@ Day-2:	# partial sum
 DAY-3 : # Binary Search
 
 DAY-4 : # Added some DS codes to the repo -> linked list, stack, queue
+	# Euler's Totient
+	# Segmented sieve
+	# modular inverse
