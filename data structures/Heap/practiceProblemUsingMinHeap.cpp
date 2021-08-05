@@ -43,26 +43,13 @@ void heapify(int arr[], int n, int i){
 
 }
 
-void printReverseHeap(int arr[], int n)
-{
-    for (int i = n; i >= 1; i--)
-        cout << arr[i] << " ";
-
-    cout << "\n";
-}
-
 
 void heapSort(int arr[], int n)
 {
-    for (int i = n/2; i >= 1; i--)
-        heapify(arr, n, i);
-
     for (int i = n ; i >= 1; i--) {
         swap(arr[1], arr[i]);
         heapify(arr, i, 1);
     }
-
-    printReverseHeap(arr, n);
 }
 
 void insertNode(int arr[], int* n, int Key)
