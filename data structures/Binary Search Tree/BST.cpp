@@ -118,7 +118,6 @@ Node *deleteNode(Node *root, int key)
 int main()
 {
     Node *root = NULL;
-
     root = insertNode(root, 5);
 
     insertNode(root, 3);
