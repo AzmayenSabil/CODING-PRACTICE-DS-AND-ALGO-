@@ -45,7 +45,6 @@ void heapSort(int arr[], int n)
 	}
 }
 
-/* A utility function to print array of size n */
 void printArray(int arr[], int n)
 {
 	for (int i = 0; i < n; ++i)
@@ -53,7 +52,6 @@ void printArray(int arr[], int n)
 	cout << "\n";
 }
 
-// Driver code
 int main()
 {
 	int arr[] = { 12, 11, 13, 5, 6, 7 };
