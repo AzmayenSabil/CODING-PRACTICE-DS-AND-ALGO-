@@ -36,8 +36,8 @@ void DFS2(int i,vector<bool>& visited)
 void findSCCs()
 {
 	stack<int> mystack;
-
 	vector<bool> visited(V,false);
+	
 	for(int i=0;i<V;++i)
 		if(!visited[i])
 			DFS1(i,visited,mystack);
