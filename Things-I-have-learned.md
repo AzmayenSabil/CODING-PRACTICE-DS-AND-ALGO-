@@ -16,3 +16,7 @@ DAY-4 : # Added some DS codes to the repo -> linked list, stack, queue
 
 DAY-5	# Gauss Jordan Elimination 
 DAY-6	# permuation using recursion 
+
+
+-- 01-02-22
+starting again
