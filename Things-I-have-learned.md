@@ -5,7 +5,6 @@ Day-1: 	# Sieve of eratosthenes
 Day-2:	# partial sum
 	# maximum sum subarry
 	# longest consecutive number subarray
-	  
 <br> 	
 DAY-3 : # Binary Search
 <br> 
